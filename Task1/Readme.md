@@ -18,7 +18,7 @@ A simple **Hangman game** implemented in **Python** as part of my Python Program
 
 - Python 3
 - Basic concepts: loops, conditions, strings, lists
-𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+## Learning
 
 Working with strings and lists in Python
 
