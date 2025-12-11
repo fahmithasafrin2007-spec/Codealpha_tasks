@@ -20,7 +20,7 @@ A simple **Hangman game** implemented in **Python** as part of my Python Program
 - Basic concepts: loops, conditions, strings, lists
 
 --
-##Learnings
+##𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬
 
 Working with strings and lists in Python
 
