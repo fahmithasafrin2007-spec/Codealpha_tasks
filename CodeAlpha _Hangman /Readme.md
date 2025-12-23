@@ -6,22 +6,25 @@ A simple Hangman game implemented in Python as part of my Python Programming Int
 
 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 
-Random word selection for the player to guess
-Limited number of attempts before the game ends
-Tracks letters guessed correctly and incorrectly
-Simple console-based user interface
+•Random word selection for the player to guess.
+
+•Limited number of attempts before the game ends.
+
+•Tracks letters guessed correctly and incorrectly.
+
+•Simple console-based user interface.
 
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 
-Python 3
-Basic concepts: loops, conditions, strings, lists
+•Python 3
+•Basic concepts: loops, conditions, strings, lists
 
 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
 
-Working with strings and lists in Python
+•Working with strings and lists in Python.
 
-Implementing game logic with loops and conditions
+•Implementing game logic with loops and conditions.
 
-Handling user input effectively
+•Handling user input effectively.
 
 
