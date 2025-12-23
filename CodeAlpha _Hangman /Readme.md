@@ -1,19 +1,18 @@
 This task is about Hangman game
-
-Hangman Game 🪤
+𝗛𝗔𝗡𝗚𝗠𝗔𝗡 𝗚𝗔𝗠𝗘🪤
 A simple Hangman game implemented in Python as part of my Python Programming Internship at CodeAlpha.
 
-Features
+𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 Random word selection for the player to guess
 Limited number of attempts before the game ends
 Tracks letters guessed correctly and incorrectly
 Simple console-based user interface
 
-Technologies Used
+𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 Python 3
 Basic concepts: loops, conditions, strings, lists
 
-Learning
+𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
 Working with strings and lists in Python
 
 Implementing game logic with loops and conditions
