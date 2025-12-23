@@ -8,9 +8,11 @@ Random word selection for the player to guess
 Limited number of attempts before the game ends
 Tracks letters guessed correctly and incorrectly
 Simple console-based user interface
+
 Technologies Used
 Python 3
 Basic concepts: loops, conditions, strings, lists
+
 Learning
 Working with strings and lists in Python
 
