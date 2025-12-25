@@ -42,12 +42,15 @@ It understands greetings, emotions, personal queries, and basic knowledge questi
 You can type 'bye' to exit the chat.
 
 You: hi
+
 Bot: Hello! How can I help you today?
 
 You: how are you
+
 Bot: I'm doing great! How about you?
 
 You: bye
+
 Bot: Goodbye! Have a wonderful day!
 
 ## What i learned
