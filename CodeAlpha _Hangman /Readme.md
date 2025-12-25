@@ -1,4 +1,5 @@
 This task is about Hangman game
+
 # Hangman Game 🪤
 
 A simple **Hangman game** implemented in **Python** as part of my Python Programming Internship at CodeAlpha.
