@@ -42,4 +42,4 @@ A Stock Portfolio Tracker built in Python to help users monitor their investment
 
 - Visualization with matplotlib
 
-- It is enough to give readme
+
