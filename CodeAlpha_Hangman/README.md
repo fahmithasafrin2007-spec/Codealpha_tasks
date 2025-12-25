@@ -21,7 +21,7 @@ A simple Hangman game implemented in Python as part of my Python Programming Int
      - conditions
      - strings
      - lists
-     - 
+       
 ## How to run the game
 
  1️⃣ Install Python
