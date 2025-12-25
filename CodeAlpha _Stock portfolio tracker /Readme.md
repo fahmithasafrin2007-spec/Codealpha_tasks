@@ -5,7 +5,7 @@ A Stock Portfolio Tracker built in Python to help users monitor their investment
 
 ---
 
-Features
+##Features
 
 Track multiple stocks in your portfolio
 
@@ -20,7 +20,7 @@ Export portfolio data to CSV (optional)
 
 ---
 
-Technologies Used
+##Technologies Used
 
 Python 3
 
@@ -32,7 +32,7 @@ Optional: CSV for data export
 ---
 
 
-Learnings
+##Learnings
 
 Working with APIs to fetch stock data
 
