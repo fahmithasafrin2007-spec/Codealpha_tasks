@@ -33,7 +33,7 @@ It understands greetings, emotions, personal queries, and basic knowledge questi
   
 - 3️⃣ Run using:
 
-python chatbot.py
+       -python chatbot.py
 
 ▶️ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠 𝗢𝗨𝗧𝗣𝗨𝗧 𝗘𝗫𝗔𝗠𝗣𝗟𝗘
 
