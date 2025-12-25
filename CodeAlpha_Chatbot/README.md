@@ -24,9 +24,9 @@ ChatBuddy is a simple yet interactive rule-based Python chatbot that responds ba
 
      - Conditional Statements (if-elif-else)
        
-      - Loops
+     - Loops
        
-      - String Handling
+     - String Handling
   
 ## How to run the program
 
