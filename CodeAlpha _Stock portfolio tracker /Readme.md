@@ -1,44 +1,44 @@
-𝗦𝗧𝗢𝗖𝗞 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗧𝗥𝗔𝗖𝗞𝗘𝗥 📊
+## Stock portfolio tracker 📊
 
 A Stock Portfolio Tracker built in Python to help users monitor their investments, track stock prices, and calculate portfolio performance.
 
 
 ---
-𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
+## Features
 
-Track multiple stocks in your portfolio
+- Track multiple stocks in your portfolio
 
-Get real-time or latest stock prices
+- Get real-time or latest stock prices
 
-Calculate profit/loss for each stock and overall portfolio
+- Calculate profit/loss for each stock and overall portfolio
 
-Display portfolio summary in a clean format
+- Display portfolio summary in a clean format
 
-Export portfolio data to CSV (optional)
-
-
----
-
-𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
-
-Python 3
-
-Libraries: pandas, yfinance, matplotlib (if graphing)
-
-Optional: CSV for data export
+- Export portfolio data to CSV (optional)
 
 
 ---
 
+## 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 
-𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚𝗦
+- Python 3
 
-Working with APIs to fetch stock data
+- Libraries: pandas, yfinance, matplotlib (if graphing)
 
-Data manipulation using pandas
+- Optional: CSV for data export
 
-Basic portfolio analytics
 
-Visualization with matplotlib
+---
 
-It is enough to give readme
+
+## 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚𝗦
+
+- Working with APIs to fetch stock data
+
+- Data manipulation using pandas
+
+- Basic portfolio analytics
+
+- Visualization with matplotlib
+
+- It is enough to give readme
