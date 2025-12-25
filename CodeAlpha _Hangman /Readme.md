@@ -21,7 +21,7 @@ A simple **Hangman game** implemented in **Python** as part of my Python Program
 
 ---
 
-🚀 𝗛𝗢𝗪 𝗧𝗢 𝗥𝗨𝗡 𝗧𝗛𝗘 𝗚𝗔𝗠𝗘
+## How to run the game
 
 - 1️⃣ Install Python
   
