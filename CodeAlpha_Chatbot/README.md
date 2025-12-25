@@ -1,4 +1,5 @@
 ## Advanced rule-based chatbot-chatbuddy
+
 ChatBuddy is a simple yet interactive rule-based Python chatbot that responds based on predefined conditions. It understands greetings, emotions, personal queries, and basic knowledge questions — making it perfect for beginners learning Python logic and AI basics.
 
 ## Features
@@ -21,8 +22,10 @@ ChatBuddy is a simple yet interactive rule-based Python chatbot that responds ba
 
 - Concepts Used:
 
-- Conditional Statements (if-elif-else)
+     - Conditional Statements (if-elif-else)
+       
       - Loops
+       
       - String Handling
   
 ## How to run the program
