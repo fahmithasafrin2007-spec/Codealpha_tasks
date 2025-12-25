@@ -1,9 +1,9 @@
-##🤖 Advanced rule-based chatbot-chatbuddy
+## Advanced rule-based chatbot-chatbuddy
 
 ChatBuddy is a simple yet interactive rule-based Python chatbot that responds based on predefined conditions.
 It understands greetings, emotions, personal queries, and basic knowledge questions — making it perfect for beginners learning Python logic and AI basics.
 
-##⭐ Features
+## Features
 
 - ✔️ Responds to greetings
   
@@ -17,7 +17,7 @@ It understands greetings, emotions, personal queries, and basic knowledge questi
   
 - ✔️ Runs continuously until user exits
 
-##🛠️ Technologies used
+## Technologies used
 
 - Language: Python
 
@@ -26,7 +26,7 @@ It understands greetings, emotions, personal queries, and basic knowledge questi
      - Loops
      - String Handling
 
-##🚀 How to run the program
+## How to run the program
 
 - 1️⃣ Install Python (if not already installed)
   
@@ -36,7 +36,7 @@ It understands greetings, emotions, personal queries, and basic knowledge questi
 
        -python chatbot.py
 
-##▶️ program output example
+## program output example
 
 === Welcome to ChatBuddy ===
 You can type 'bye' to exit the chat.
@@ -50,7 +50,7 @@ Bot: I'm doing great! How about you?
 You: bye
 Bot: Goodbye! Have a wonderful day!
 
-##📌 What i learned
+## What i learned
 
 - ✔️ Basics of chatbot development
   
@@ -60,6 +60,6 @@ Bot: Goodbye! Have a wonderful day!
   
 - ✔️ Creating interactive programs
 
-##🎯 Project purpose
+## Project purpose
 
 This chatbot was developed as part of an internship task to understand Rule-Based AI Systems and Python programming basics.
