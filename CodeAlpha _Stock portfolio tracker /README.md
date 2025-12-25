@@ -19,7 +19,7 @@ A Stock Portfolio Tracker built in Python to help users monitor their investment
 
 ---
 
-## 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
+## Technologies used
 
 - Python 3
 
@@ -31,7 +31,7 @@ A Stock Portfolio Tracker built in Python to help users monitor their investment
 ---
 
 
-## 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚𝗦
+## Learnings
 
 - Working with APIs to fetch stock data
 
