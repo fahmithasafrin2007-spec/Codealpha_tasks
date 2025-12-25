@@ -24,9 +24,9 @@ A simple **Hangman game** implemented in **Python** as part of my Python Program
 
 ## Learnings
 
-• Working with strings and lists in Python
-• Implementing game logic with loops and conditions
-• Handling user input effectively
+- Working with strings and lists in Python
+- Implementing game logic with loops and conditions
+- Handling user input effectively
 
 
 
