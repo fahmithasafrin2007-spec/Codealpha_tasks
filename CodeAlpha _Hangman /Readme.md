@@ -21,6 +21,18 @@ A simple **Hangman game** implemented in **Python** as part of my Python Program
 
 ---
 
+🚀 𝗛𝗢𝗪 𝗧𝗢 𝗥𝗨𝗡 𝗧𝗛𝗘 𝗚𝗔𝗠𝗘
+
+- 1️⃣ Install Python
+  
+- 2️⃣ Save the file as hangman.py
+  
+- 3️⃣ Run the program:
+  
+      - python hangman.py
+  
+---
+
 ## Learnings
 
 - Working with strings and lists in Python
